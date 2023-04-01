@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samrat</h1>
 <h3 align="center">A curious programmer</h3>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4792trokyt2wi0dt801dwr00jrsqt10b5pdg2tuepo&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samysr17&label=Profile%20views&color=0e75b6&style=flat" alt="samysr17" /> </p>
 
