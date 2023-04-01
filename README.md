@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **WEB and ML projects**
 
-- 🌱 I’m currently learning **Next, Express, Tensorflow**
+- 🌱 I’m currently learning **Next,Express,Tensorflow**
 
-- 👯 I’m looking to collaborate on **MERN stack and ML projects**
+- 👯 I’m looking to collaborate on **MERN stack ML projects**
 
 - 👨‍💻 My portfolio website : [https://samysr17.netlify.app](https://samysr17.netlify.app)
 
-- 💬 Ask me about **Frontend Dev and Data analysis and visualization**
+- 💬 Ask me about **Frontend Dev Data analysis visualization**
 
 - 📫 Reach me at **samratroykdh@gmail.com**
 
