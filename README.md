@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samysr17&label=Profile%20views&color=0e75b6&style=flat" alt="samysr17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samysr17" alt="samysr17" /></a> </p>
+
 
 - 🔭 I’m currently working on **WEB and ML projects**
 
