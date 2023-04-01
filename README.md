@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Next,Express,Tensorflow**
 
-- 👯 I’m looking to collaborate on **MERN stack ML projects**
+- 👯 I’m looking to collaborate on **MERN stack & ML projects**
 
 - 👨‍💻 My portfolio website : [https://samysr17.netlify.app](https://samysr17.netlify.app)
 
-- 💬 Ask me about **Frontend Dev Data analysis visualization**
+- 💬 Ask me about **Fullstack Dev, Data analysis & visualization**
 
 - 📫 Reach me at **samratroykdh@gmail.com**
 
