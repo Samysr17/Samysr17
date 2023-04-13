@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **WEB and ML projects**
 
-- 🌱 I’m currently learning **Next,Express,Tensorflow**
+- 🌱 I’m currently learning **Express,Tensorflow**
 
 - 👯 I’m looking to collaborate on **MERN stack & ML projects**
 
