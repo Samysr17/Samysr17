@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack & ML projects**
 
-- 👨‍💻 My portfolio website : [https://samysr17.netlify.app](https://samysr17.netlify.app) :)still under build :(
+-
 
 - 💬 Ask me about **Fullstack Dev, Data analysis & visualization**
 
