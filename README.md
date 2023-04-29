@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **MERN stack & ML projects**
 
--
-
 - 💬 Ask me about **Fullstack Dev, Data analysis & visualization**
 
 - 📫 Reach me at **samratroykdh@gmail.com**
