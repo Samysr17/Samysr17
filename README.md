@@ -31,6 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samysr17&show_icons=true&locale=en" alt="samysr17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samysr17&" alt="samysr17" /></p>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 <a href="https://github.com/Samysr17/github-readme-activity-graph"><img alt="Samrat's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Samysr17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
