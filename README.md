@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I am Samrat</h1>
-<h3 align="center">A curious programmer</h3>
+<h3 align="center">A curious human</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4792trokyt2wi0dt801dwr00jrsqt10b5pdg2tuepo&rid=giphy.gif&ct=g"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samysr17&label=Profile%20views&color=0e75b6&style=flat" alt="samysr17" /> </p>
 
 
 
-- 🔭 I’m currently working on **WEB and ML projects**
+- 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **Express,Tensorflow,Scikit-learn**
-
-- 👯 I’m looking to collaborate on **MERN stack & ML projects**
-
-- 💬 Ask me about **DSA,Fullstack Dev, Data analysis & visualization**
+- 💬 Ask me about **DSA,Fullstack Development**
 
 - 📫 Reach me at **samratroykdh@gmail.com**
 
