@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 💬 Ask me about **DSA,Fullstack Development**
+- 💬 Ask me about **DSA,Fullstack Development,System Design**
 
 - 📫 Reach me at **samratroykdh@gmail.com**
 
