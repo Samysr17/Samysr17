@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **samratroykdh@gmail.com**
 
-<h3 align="left">Connect with me at:</h3>
+<h3 align="left"> Have a look at my profiles:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/samrat3112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samrat3112" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/samysr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samysr17" height="30" width="40" /></a>
